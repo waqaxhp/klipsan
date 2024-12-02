@@ -1,0 +1,25 @@
+{
+  "menuItems": [
+    { "id": 1, "name": "About", "href": "#about" },
+    { "id": 2, "name": "Schedule", "href": "#schedule" },
+    { "id": 3, "name": "Contact", "href": "#contact" },
+    { "id": 4, "name": "Store", "href": "#store" },
+    { "id": 5, "name": "Login", "href": "#login" }
+  ],
+  "socialLinks": [
+    { "id": 1, "name": "Instagram", "href": "#instagram", "icon": "FaInstagram" },
+    { "id": 2, "name": "YouTube", "href": "#youtube", "icon": "FaYoutube" },
+    { "id": 3, "name": "Facebook", "href": "#facebook", "icon": "FaFacebook" }
+  ],
+  "home": {
+    "backgroundImage": "/Content/Images/drive-banner.jpg",
+    "title": "TRAIN ON YOUR OWN TIME.",
+    "buttonText": "JOIN OUR GYM",
+    "title2": "WE'RE A HIGH QUALITY GYM DEDICATED TO AFFORDABLE HEALTH AND WELLNESS.",
+    "description": "Klipsan Fitness is a gym where you come as you are, and do your best. Our membership offers both digital and in-club programming aimed at helping you achieve your fitness goals. Discover all of our club's offerings below."
+  },
+  "fitnessLayout": {
+    "topImage": "/Content/Images/top.jpg",
+    "bottomImage": "/Content/Images/top.jpg"
+  }
+}
